@@ -1,0 +1,25 @@
+.bg-box{
+    background-color: rgba(0, 0, 0, 0.62);
+    height: 100%;
+}
+.bg-box h2{
+    font-size: 40px;
+    color: #fff;
+}
+.bg-content{
+    position: absolute;
+    top: 30%;
+}
+ .main-btn{
+   background-color: rgb(241, 199, 12);
+   color:rgb(46, 3, 3);
+   padding: 5px 20px;
+   border: 2px solid rgb(241, 199, 12);
+   font-size: 18px;
+   transition: 0.5s;
+   cursor: pointer
+}
+.main-btn:hover{
+    color:rgb(241, 199, 12);
+    background: transparent;
+}

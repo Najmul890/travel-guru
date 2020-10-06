@@ -1,0 +1,91 @@
+.img-box-h{
+    text-align: center;
+    color: #fff;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+
+.slide{
+    width:200px;
+    height:220px;
+}
+.slide1{
+    background-image: url("../../Image/cox.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    width:200px;
+    height:220px;
+}
+.slide2{
+    background-image: url("../../Image/sajek-vally.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    width:200px;
+    height:220px;
+}
+.slide3{
+    background-image: url("../../Image/srimongol.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    width:200px;
+    height:220px;
+}
+.slide4{
+    background-image: url("../../Image/Sundarban--1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    width:200px;
+    height:220px;
+}
+.slide5{
+    background-image: url("../../Image/kuakata.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    width:200px;
+    height:220px;
+}
+.slide6{
+    background-image: url("../../Image/rangamati.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+    width:200px;
+    height:220px;
+    
+}
+.item{
+    border: 0;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.561);
+    position: relative;
+    cursor:pointer
+}
+    
+.selected-item{
+    border:4px solid rgb(250, 250, 16);
+    border-radius: 7px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.233);
+    position: relative;
+    cursor:pointer
+    
+ }   
+.item h2{
+    color:#fff;
+    position: absolute;
+    text-align: center;
+    bottom:10px;
+    left:20px
+}
+.selected-item h2{
+    color:#fff;
+    position: absolute;
+    text-align: center;
+    bottom:10px;
+    left:20px
+}

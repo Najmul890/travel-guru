@@ -1,0 +1,41 @@
+.nav-container{
+    position: absolute;
+    color: rgb(241, 199, 12);
+}
+.nav-container ul{
+    list-style-type: none;
+}
+.nav-container ul li{
+    float: left;
+    padding: 10px 20px;
+}
+.nav-container input{
+    width:500px;
+    padding:6px 40px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    outline: none;
+    color: #fff;
+    background: none;
+}
+input::placeholder{
+    color: #fff;
+}
+ul li{
+    cursor: pointer;
+}
+.link:hover{
+    color:rgb(241, 199, 12)
+}
+.login-btn{margin-top:-10px ;}
+.nav-container ul li.userName{padding-left: 0;}
+
+
+
+
+
+
+
+
+
+
